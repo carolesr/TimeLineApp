@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TimeLineFinal.GamePage"
+             Title="TimeLine">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="lbRound"
+                VerticalOptions="Start" 
+                HorizontalOptions="CenterAndExpand" 
+                FontSize="Large"/>
+            <Label Text="Ordene os seguintes eventos:"
+                VerticalOptions="Start" 
+                HorizontalOptions="CenterAndExpand" 
+                FontSize="Medium"/>
+            <Button x:Name="btButton1" 
+                Clicked="Button1_Clicked"
+                VerticalOptions="End"/>
+            <Button x:Name="btButton2"
+                Clicked="Button2_Clicked"
+                VerticalOptions="End"/>
+            <Button x:Name="btButton3"
+                Clicked="Button3_Clicked"
+                VerticalOptions="End"/>
+            <Button x:Name="Continuar"
+                Text="Continuar"
+                VerticalOptions="End"
+                IsVisible="False"
+                Clicked="Continuar_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

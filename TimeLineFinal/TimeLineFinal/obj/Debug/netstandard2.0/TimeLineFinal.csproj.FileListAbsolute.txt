@@ -1,0 +1,17 @@
+C:\TimeLineFinal\TimeLineFinal\TimeLineFinal\bin\Debug\netstandard2.0\TimeLineFinal.deps.json
+C:\TimeLineFinal\TimeLineFinal\TimeLineFinal\bin\Debug\netstandard2.0\TimeLineFinal.dll
+C:\TimeLineFinal\TimeLineFinal\TimeLineFinal\obj\Debug\netstandard2.0\TimeLineFinal.csprojAssemblyReference.cache
+C:\TimeLineFinal\TimeLineFinal\TimeLineFinal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\TimeLineFinal\TimeLineFinal\TimeLineFinal\obj\Debug\netstandard2.0\GameOverPage.xaml.g.cs
+C:\TimeLineFinal\TimeLineFinal\TimeLineFinal\obj\Debug\netstandard2.0\GamePage.xaml.g.cs
+C:\TimeLineFinal\TimeLineFinal\TimeLineFinal\obj\Debug\netstandard2.0\InitialPage.xaml.g.cs
+C:\TimeLineFinal\TimeLineFinal\TimeLineFinal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\TimeLineFinal\TimeLineFinal\TimeLineFinal\obj\Debug\netstandard2.0\SignInPage.xaml.g.cs
+C:\TimeLineFinal\TimeLineFinal\TimeLineFinal\obj\Debug\netstandard2.0\StatisticsPage.xaml.g.cs
+C:\TimeLineFinal\TimeLineFinal\TimeLineFinal\obj\Debug\netstandard2.0\TimeLineFinal.csproj.CoreCompileInputs.cache
+C:\TimeLineFinal\TimeLineFinal\TimeLineFinal\obj\Debug\netstandard2.0\TimeLineFinal.AssemblyInfoInputs.cache
+C:\TimeLineFinal\TimeLineFinal\TimeLineFinal\obj\Debug\netstandard2.0\TimeLineFinal.AssemblyInfo.cs
+C:\TimeLineFinal\TimeLineFinal\TimeLineFinal\bin\Debug\netstandard2.0\TimeLineFinal.pdb
+C:\TimeLineFinal\TimeLineFinal\TimeLineFinal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\TimeLineFinal\TimeLineFinal\TimeLineFinal\obj\Debug\netstandard2.0\TimeLineFinal.dll
+C:\TimeLineFinal\TimeLineFinal\TimeLineFinal\obj\Debug\netstandard2.0\TimeLineFinal.pdb
